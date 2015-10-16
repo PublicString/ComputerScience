@@ -1,1 +1,6 @@
 C:\Users\billy\OneDrive\Documents\GitHub\ComputerScience\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\billy\OneDrive\Documents\GitHub\ComputerScience\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\billy\OneDrive\Documents\GitHub\ComputerScience\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\billy\OneDrive\Documents\GitHub\ComputerScience\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\billy\OneDrive\Documents\GitHub\ComputerScience\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\billy\OneDrive\Documents\GitHub\ComputerScience\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
