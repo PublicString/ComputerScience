@@ -1,4 +1,8 @@
-# Formatting
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE html PUBLIC "" ""><HTML><HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8"></HEAD>
+<BODY>
+<PRE># Formatting
 printf '\e[8;24;118t'
 
 clear
@@ -181,3 +185,4 @@ esac
 # Executes Functions
 Menu
 UserChoice
+</PRE></BODY></HTML>
